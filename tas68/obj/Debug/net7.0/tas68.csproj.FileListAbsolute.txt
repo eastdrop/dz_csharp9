@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\bin\Debug\net7.0\tas68.exe
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\bin\Debug\net7.0\tas68.deps.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\bin\Debug\net7.0\tas68.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\bin\Debug\net7.0\tas68.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\bin\Debug\net7.0\tas68.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\refint\tas68.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\tas68.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz9\dz_csharp9\tas68\obj\Debug\net7.0\ref\tas68.dll
